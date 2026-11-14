@@ -1,0 +1,14 @@
+# local only
+.env
+.venv/
+DECISIONS.md
+NOTES*.md
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+data/raw/**/*.7z
+*.log
+.tmp/
+data/simulated/*.parquet

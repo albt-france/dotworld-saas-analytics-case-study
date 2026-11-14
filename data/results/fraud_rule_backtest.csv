@@ -1,0 +1,5 @@
+rule,checkouts,confirmed_fraud,blocked,fraud_caught,clean_payers_blocked,recall,precision
+vélocité >= 5 OU (pays IP <> pays carte ET e-mail jetable),53153,304,4297,141,27,0.4638,0.0328
+vélocité BIN >= 5 en 1 h,53153,304,4219,137,5,0.4507,0.0325
+score >= 0.5,53153,304,4087,135,18,0.4441,0.033
+score >= 0.7,53153,304,2464,88,3,0.2895,0.0357

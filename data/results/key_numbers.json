@@ -1,0 +1,155 @@
+{
+  "payback": [
+    {
+      "channel": "Affiliation",
+      "cac_eur": 26.78,
+      "ltv_365": 83.4,
+      "payback_day": 10
+    },
+    {
+      "channel": "Direct",
+      "cac_eur": 0.0,
+      "ltv_365": 92.16,
+      "payback_day": 0
+    },
+    {
+      "channel": "Google Ads",
+      "cac_eur": 21.54,
+      "ltv_365": 92.67,
+      "payback_day": 10
+    },
+    {
+      "channel": "Meta",
+      "cac_eur": 41.22,
+      "ltv_365": 87.35,
+      "payback_day": 35
+    },
+    {
+      "channel": "SEO",
+      "cac_eur": 0.0,
+      "ltv_365": 92.4,
+      "payback_day": 0
+    },
+    {
+      "channel": "TikTok",
+      "cac_eur": 48.49,
+      "ltv_365": 85.3,
+      "payback_day": 65
+    }
+  ],
+  "routing": [
+    {
+      "country": "BR",
+      "n_psp_s": 4831,
+      "acc_psp_s": 0.6173,
+      "acc_psp_a": 0.7036,
+      "diff": 0.0863,
+      "diff_lo": 0.0648,
+      "diff_hi": 0.1079,
+      "extra_approved": 417.0369,
+      "revenue_eur": 6768.5092,
+      "revenue_lo": 5079.0136,
+      "revenue_hi": 8458.0049
+    },
+    {
+      "country": "MX",
+      "n_psp_s": 5555,
+      "acc_psp_s": 0.5293,
+      "acc_psp_a": 0.633,
+      "diff": 0.1038,
+      "diff_lo": 0.0815,
+      "diff_hi": 0.126,
+      "extra_approved": 576.3572,
+      "revenue_eur": 8155.4547,
+      "revenue_lo": 6406.1564,
+      "revenue_hi": 9904.753
+    }
+  ],
+  "retry_schedule": {
+    "extra_recovered": 881.7709000000002,
+    "lo": 754.1896155714388,
+    "hi": 1009.3521844285616,
+    "revenue_eur": 21162.501600000003,
+    "revenue_lo": 18100.55077371453,
+    "revenue_hi": 24224.45242628548
+  },
+  "es_incident": {
+    "acc_before": 0.8616529351184344,
+    "acc_after": 0.7919670836076367,
+    "drop": 0.06968585151079776,
+    "drop_lo": 0.04573051930284136,
+    "drop_hi": 0.09364118371875416,
+    "attempts_after": 1519,
+    "revenue_eur": 2328.7617857878395,
+    "revenue_lo": 1528.2224940623528,
+    "revenue_hi": 3129.301077513326
+  },
+  "avoidable_total": {
+    "revenue_eur": 38415.22729893247,
+    "lo": 31113.94319958533,
+    "hi": 45716.51139827962
+  },
+  "reconciliation": {
+    "gap_total_eur": -10395.0,
+    "internal_total_eur": 1651947.0,
+    "gap_pct": -0.006292574761781099,
+    "bridge": {
+      "Doublons dans la base interne (webhooks rejoués)": -6414.0,
+      "Paiements absents de la base interne (webhooks perdus)": 4550.0,
+      "Litiges débités par le PSP, absents de la base": -8268.0,
+      "Change : taux du jour contre taux moyen du mois": -20.0,
+      "Résidu (remboursements, bords de période)": -243.0
+    },
+    "month_shift_n": 140,
+    "month_shift_eur": 2823.0,
+    "psp_fees_eur": 47903.0
+  },
+  "experiment": {
+    "n": {
+      "control": 5736,
+      "prix_transparent": 5686
+    },
+    "srm_p": 0.6398977995931836,
+    "trial_checkout": {
+      "control": 0.44421199442119946,
+      "variant": 0.41786844882166724,
+      "diff": -0.026343545599532225,
+      "lo": -0.044500798067021355,
+      "hi": -0.0081862931320431,
+      "rel": -0.059303994332384945,
+      "p": 0.004475759672707635
+    },
+    "paid_first_renewal": {
+      "control": 0.17294281729428174,
+      "variant": 0.17762926486106226,
+      "diff": 0.004686447566780522,
+      "lo": -0.0092591865759779,
+      "hi": 0.018632081709538943,
+      "rel": 0.02709824923694866,
+      "p": 0.510110168032895
+    },
+    "revenue_60d": {
+      "control": 9.27643218967922,
+      "variant": 9.3503534743229,
+      "diff": 0.07392128464367964,
+      "lo": -0.6731954544633846,
+      "hi": 0.83381774960728,
+      "p": 0.8504845898203407
+    },
+    "disputes_per_1000_payers": {
+      "control": 35.282258064516135,
+      "variant": 26.73267326732673,
+      "control_n": 39,
+      "variant_n": 29,
+      "payers_control": 992,
+      "payers_variant": 1010,
+      "diff": -8.5495847971894,
+      "lo": -23.7405509965185,
+      "hi": 6.6413814021397
+    },
+    "payers_per_arm_for_30pct_dispute_drop": 4073,
+    "mde_paid_abs": 0.01987167341456048,
+    "mde_paid_rel": 0.11490314385677308,
+    "n_per_arm_for_5pct_rel": 30029
+  }
+}

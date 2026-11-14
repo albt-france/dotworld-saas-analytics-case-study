@@ -1,0 +1,27 @@
+channel,product,zone,payers,spend_eur,contribution_180_eur,roas_180
+Google Ads,A,Europe,1772,34897.0,124419.0,4.57
+Google Ads,C,Europe,736,12788.0,27885.0,3.18
+Google Ads,A,US,508,15208.0,25079.0,2.65
+Google Ads,B,Europe,615,15761.0,21261.0,2.35
+Meta,A,Europe,391,14407.0,20412.0,2.42
+Google Ads,A,LATAM,306,3809.0,20078.0,6.27
+Affiliation,A,Europe,262,7656.0,14035.0,2.83
+Google Ads,C,LATAM,152,1413.0,6127.0,5.34
+Affiliation,B,Europe,101,1188.0,4333.0,4.65
+Google Ads,B,LATAM,109,1699.0,3631.0,3.14
+Meta,A,LATAM,69,1539.0,3404.0,3.21
+Google Ads,C,US,184,5469.0,3087.0,1.56
+Google Ads,B,US,168,6940.0,2550.0,1.37
+Meta,C,Europe,154,5272.0,2480.0,1.47
+TikTok,A,Europe,73,3700.0,2334.0,1.63
+Meta,B,Europe,140,6535.0,2169.0,1.33
+Affiliation,A,US,62,1764.0,2063.0,2.17
+Affiliation,A,LATAM,47,1548.0,1963.0,2.27
+Meta,A,US,104,6358.0,1423.0,1.22
+Affiliation,B,US,30,360.0,1328.0,4.69
+Meta,C,LATAM,32,564.0,1022.0,2.81
+TikTok,B,Europe,41,1687.0,792.0,1.47
+Meta,B,LATAM,30,708.0,770.0,2.09
+Affiliation,C,Europe,85,3300.0,596.0,1.18
+Meta,B,US,31,2848.0,-1130.0,0.6
+Meta,C,US,32,2293.0,-1312.0,0.43

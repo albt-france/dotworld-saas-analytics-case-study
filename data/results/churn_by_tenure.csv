@@ -1,0 +1,10 @@
+product,tenure,voluntary,involuntary,share_involuntary
+A,1 cycle,3945,617,0.1338
+A,2-3 cycles,2101,635,0.2319
+A,4 cycles et +,1032,731,0.4146
+B,1 cycle,728,255,0.2581
+B,2-3 cycles,470,315,0.4008
+B,4 cycles et +,347,443,0.5608
+C,1 cycle,1989,272,0.1199
+C,2-3 cycles,896,242,0.2121
+C,4 cycles et +,438,270,0.3814

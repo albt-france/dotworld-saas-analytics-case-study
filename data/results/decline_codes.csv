@@ -1,0 +1,12 @@
+decline_type,decline_code,n,share
+soft,insufficient_funds,6193,0.3058
+soft,do_not_honor,4774,0.2357
+hard,fraudulent,1467,0.0724
+hard,incorrect_number,1409,0.0696
+soft,authentication_required,1386,0.0684
+hard,stolen_card,1307,0.0645
+hard,expired_card,1274,0.0629
+hard,transaction_not_allowed,991,0.0489
+soft,try_again_later,674,0.0333
+soft,processing_error,417,0.0206
+hard,lost_card,363,0.0179

@@ -1,0 +1,9 @@
+psp,kind,payments,acceptance_first_attempt,success_after_retries,uplift_from_retries
+PSP_A,annual,389,0.8432,0.8586,0.0154
+PSP_A,first_renewal,7367,0.8098,0.8719,0.062
+PSP_A,renewal,12805,0.8634,0.9082,0.0448
+PSP_A,trial,16455,0.7863,0.8015,0.0152
+PSP_S,annual,2095,0.8697,0.8878,0.0181
+PSP_S,first_renewal,15008,0.8082,0.8624,0.0542
+PSP_S,renewal,30728,0.8707,0.9117,0.041
+PSP_S,trial,27682,0.7687,0.7843,0.0156

@@ -1,0 +1,16 @@
+product,cancel_reason,n
+A,plus_besoin,4058
+A,prix,1352
+A,oubli_essai,986
+A,autre,682
+A,fraude_detectee,50
+B,plus_besoin,845
+B,prix,312
+B,oubli_essai,224
+B,autre,164
+B,fraude_detectee,6
+C,plus_besoin,1836
+C,prix,694
+C,oubli_essai,474
+C,autre,319
+C,fraude_detectee,11

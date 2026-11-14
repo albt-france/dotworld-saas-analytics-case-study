@@ -1,0 +1,6 @@
+produit,lien_dotworld_prouve,univers,formule,type,prix_initial,devise,duree_initiale_jours,prix_renouvellement,periodicite_renouvellement,renouvellement_auto,locales_verifiees,source_url,instantane_local,date_collecte
+Makemycv,oui (mentions légales),RH / CV,Accès complet 7 jours,essai payant,2.90,EUR,7,27.95,4 semaines,oui,"fr de it es es-MX nl pl pt-BR ro sv en-AU en-CA en-SG",https://makemycv.com/fr/pricing,data/raw/dotworld_site/makemycv_pricing/,2026-11-13
+Makemycv,oui (mentions légales),RH / CV,Accès complet 7 jours,essai payant,2.90,USD,7,27.95,4 semaines,oui,en-US,https://makemycv.com/en-US/pricing,data/raw/dotworld_site/makemycv_pricing/2026-11-13_en-US.html,2026-11-13
+Makemycv,oui (mentions légales),RH / CV,Accès annuel,abonnement,94.80,EUR,365,94.80,1 an,oui,"fr de it es es-MX nl pl pt-BR ro sv en-AU en-CA en-SG",https://makemycv.com/fr/pricing,data/raw/dotworld_site/makemycv_pricing/,2026-11-13
+Makemycv,oui (mentions légales),RH / CV,Accès annuel,abonnement,94.80,USD,365,94.80,1 an,oui,en-US,https://makemycv.com/en-US/pricing,data/raw/dotworld_site/makemycv_pricing/2026-11-13_en-US.html,2026-11-13
+Makemycv,oui (mentions légales),RH / CV,Headshot pro (30 photos),achat unique,29.90,EUR,,,,non,fr,https://makemycv.com/fr/pricing,data/raw/dotworld_site/makemycv_pricing/2026-11-13_fr.html,2026-11-13

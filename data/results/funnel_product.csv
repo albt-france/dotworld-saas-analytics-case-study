@@ -1,0 +1,4 @@
+product,visits,signups,checkout,trial_started,first_paid,second_paid,r_visit_signup,r_signup_checkout,r_checkout_trial,r_trial_paid,r_paid_second
+A,767708,64205,28521,22235,11197,5966,0.0836,0.4442,0.7796,0.5036,0.5328
+B,320152,20020,6091,6042,3522,2350,0.0625,0.3042,0.992,0.5829,0.6672
+C,282327,25505,12576,10044,4355,2335,0.0903,0.4931,0.7987,0.4336,0.5362
